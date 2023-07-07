@@ -27,7 +27,7 @@ panic key (unload) (end)
   
 ## Demo
 
-Demoya gif veya bağlantı ekleyin
+[Demoya gif veya bağlantı ekleyin](https://github.com/execnone/simple-cs-16-multihack/blob/main/assets/2023-07-07%2014-18-45.mp4)https://github.com/execnone/simple-cs-16-multihack/blob/main/assets/2023-07-07%2014-18-45.mp4
 
   
 ## Credits

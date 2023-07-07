@@ -12,7 +12,7 @@ or just create your own project and copy-paste sources.
 
 FEATURES
 
-triggerbot
+triggerbot\n
 wallhack
 chams
 bunnyhop

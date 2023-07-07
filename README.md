@@ -13,7 +13,7 @@ or just create your own project and copy-paste sources.
 
 ## FEATURES
 
-I'm current working on aimbot. So wait for my update or help me to develope this shit @m0rphine_ 
+I'm currently working on aimbot. So wait for my update or help me to develope this shit @m0rphine_ 
 
 ```bash
 triggerbot

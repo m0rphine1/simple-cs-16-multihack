@@ -27,14 +27,12 @@ panic key (unload) (end)
   
 ## Demo
 
-[Demoya gif veya bağlantı ekleyin](https://github.com/execnone/simple-cs-16-multihack/blob/main/assets/2023-07-07%2014-18-45.mp4)https://github.com/execnone/simple-cs-16-multihack/blob/main/assets/2023-07-07%2014-18-45.mp4
+![1](https://github.com/execnone/simple-cs-16-multihack/assets/107500228/cfa28d87-a94c-4434-92db-6ee3abfde6b8)
+
+![2](https://github.com/execnone/simple-cs-16-multihack/assets/107500228/bd35659c-53d0-4b43-9aa8-15fd848cae1a)
 
   
 ## Credits
 
 - [@rdbo](https://github.com/rdbo) thanks for base.
 
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
-  

@@ -1,7 +1,7 @@
 
 # counter strike 1.6 multi-hack by execnone
 
-its a free version of m0rphine hooks 
+this is a free version of m0rphine hooks 
 
 join our community
 https://discord.gg/uc76PHhxz8

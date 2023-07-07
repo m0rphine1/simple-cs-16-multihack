@@ -8,7 +8,7 @@ https://discord.gg/uc76PHhxz8
 
 source is based on https://github.com/rdbo/cstrike-basehook
 
-when will you use this repo, you need to install some libraries yourself. its importent to compile the project.
+when you will use this repo, you have to install some libraries yourself. its importent to compile the project.
 or just create your own project and copy-paste sources.
 ## Credits
 
